@@ -13,7 +13,7 @@ Static pages for **App Store** / **Google Play** (GitHub Pages).
 ## Upload to GitHub
 
 1. Open [fabricrules-privacy](https://github.com/PolyakovaMargarita/fabricrules-privacy).
-2. Upload these 4 files to the **root** of the repo (delete old `privacy/` and `support/` folders if they are still there):
+2. In the repo root keep **only** these 4 files. Delete leftovers named `privacy` and `support` **without** `.html` (if they exist), and delete old `privacy/` / `support/` folders:
 
 ```
 index.html
